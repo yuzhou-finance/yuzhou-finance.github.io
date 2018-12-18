@@ -4,6 +4,7 @@ title: Home
 navlevel: header
 navtitle: Home
 position: 1
+priority: 1.0
 ---
 
 <table cellspacing="0" border="0" align="center">
