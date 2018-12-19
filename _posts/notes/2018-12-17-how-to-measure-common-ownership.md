@@ -2,7 +2,7 @@
 layout: post
 title: How To Measure Common Ownership?
 category: notes
-tag: corporate finance
+tag: Finance
 cover_url: /assets/images/kitten.jpg
 cover_meta: >
   Photo by [Yerlin Matu](https://unsplash.com/@yerlinmatu)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Beamer Template
-tag: beamer template
+tag: LaTeX
 category: projects
 cover_url: /assets/images/chrismas.jpg
 cover_meta: >
