@@ -2,6 +2,6 @@
 layout: post-list
 title: LaTeX
 filter:
-  - by_tag: LaTeX
+  - by_tag: latex
 ---
 
