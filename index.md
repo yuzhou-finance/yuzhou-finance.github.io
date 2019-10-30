@@ -15,10 +15,9 @@ priority: 1.0
          <td width="2%"></td>
          <td width="45%" align="left" valign="center">
             <p>
-            	M.S. Student in Finance<br>
-				Economics and Management School<br>
-				Wuhan University<br>
-				E-mail: <a href="mailto: econyz1216@gmail.com">econyz1216@gmail.com</a><br>
+            	MPhil Student in Finance<br>
+				The Hong Kong University of Science and Technology<br>
+				E-mail: <a href="mailto: yzhoudf@connect.ust.hk">yzhoudf@connect.ust.hk</a><br>
             </p>
         </td>
      </tr>

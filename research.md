@@ -21,6 +21,11 @@ Common institutional ownerships in two firms increases the fre- quency of their 
 
 Most greate ideas for enhacing corporate growth and profits come from the people who daily fight for the company's battles, who serve the customers, explore new markets and fend off the competition (Spender and Strong, 2010). In other word, well-designed incentives and regulations on employees can make the corporates healthier; while bad compensation schemes seems to be typically slow-acting poisons. Related to this, I've written a theoretical paper to discuss the relationships among wage schemes, competition balance and total efforts.
 
+**Disclosure Policies in All-pay Auctions with Bid Caps and Stochastic Entry**   
+(with <a href="https://econbc.weebly.com/">Bo Chen</a>, Lijun Ma, Zhaobo Zhu) *Economics Letters, Accepted*  
+This paper contributes to the literature that examines the effects of disclosing the actual number of bidders in contests with stochastic entry by considering resource constraint. We study an all-pay auction with complete information. The auction entails one prize and n potential bidders. Each potential bidder has an exogenous probability of participation and faces an exogenous bid cap. It is shown that the contest organizer prefers fully concealing the information about the number of participating bidders. We extend the result to a case with endogenous entry.  
+<a href="{{ site.baseurl }}/assets/research/disclose_all_pay.pdf"><font size="3">[paper]</font></a>
+
 **Caps on All-pay Auctions with Stochastic Abilities**   
 An effort cap (meaning that employees whose efforts equal to this bound share the opportunity to win the prize) can induce employees with middle-level abilities to make more efforts by increasing their probability to win, while restricting the efforts of workers with high-level abilities.  
 <a href="{{ site.baseurl }}/assets/research/cap_all_pay.pdf"><font size="3">[slides]</font></a>
