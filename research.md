@@ -12,7 +12,7 @@ Nowadays, with the rapid rise of technologies such as artificial intelligence, r
 
 **Common Institutional Ownership and Cooperation in Innovation**  
 (with <a href="https://sites.google.com/site/jbcui2013/">Jingbo Cui</a>)  
-Common institutional ownerships in two firms increases the fre- quency of their cooperation in innovation, particular when these two firms are located in the same province and lie in similar technology positions.  
+Common institutional ownerships in two firms increases the frequency of their cooperation in innovation, particular when these two firms are located in the same province and lie in similar technology positions.  
 <a href="{{ site.baseurl }}/assets/research/common_io_innovation.pdf"><font size="3">[slides]</font></a>
 
 <hr color="#494643" size="4">
@@ -22,8 +22,9 @@ Common institutional ownerships in two firms increases the fre- quency of their 
 Most greate ideas for enhacing corporate growth and profits come from the people who daily fight for the company's battles, who serve the customers, explore new markets and fend off the competition (Spender and Strong, 2010). In other word, well-designed incentives and regulations on employees can make the corporates healthier; while bad compensation schemes seems to be typically slow-acting poisons. Related to this, I've written a theoretical paper to discuss the relationships among wage schemes, competition balance and total efforts.
 
 **Disclosure Policies in All-pay Auctions with Bid Caps and Stochastic Entry**   
-(with <a href="https://econbc.weebly.com/">Bo Chen</a>, Lijun Ma, Zhaobo Zhu) *Economics Letters, Accepted*  
-This paper contributes to the literature that examines the effects of disclosing the actual number of bidders in contests with stochastic entry by considering resource constraint. We study an all-pay auction with complete information. The auction entails one prize and n potential bidders. Each potential bidder has an exogenous probability of participation and faces an exogenous bid cap. It is shown that the contest organizer prefers fully concealing the information about the number of participating bidders. We extend the result to a case with endogenous entry.  
+(with <a href="https://econbc.weebly.com/">Bo Chen</a>, Lijun Ma, Zhaobo Zhu)  
+*Economics Letters, Accepted.*  
+The contest organizer prefers fully concealing the information about the number of participating bidders. This Result holds in both the case of exogenous entry and the case of endogenous entry.  
 <a href="{{ site.baseurl }}/assets/research/disclose_all_pay.pdf"><font size="3">[paper]</font></a>
 
 **Caps on All-pay Auctions with Stochastic Abilities**   
