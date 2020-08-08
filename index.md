@@ -17,7 +17,7 @@ priority: 1.0
             <p>
             	MPhil Student in Finance<br>
 				The Hong Kong University of Science and Technology<br>
-				E-mail: <a href="mailto: yzhoudf@connect.ust.hk">yzhoudf@connect.ust.hk</a><br>
+				E-mail: <a href="mailto: yzhoudf@connect.ust.hk">yzhoudf[\@]connect[\dot]ust[\dot]hk</a><br>
             </p>
         </td>
      </tr>
