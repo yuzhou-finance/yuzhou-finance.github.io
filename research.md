@@ -24,7 +24,7 @@ Most greate ideas for enhacing corporate growth and profits come from the people
 ## Publications
 
 **[Disclosure Policies in All-pay Auctions with Bid Caps and Stochastic Entry](https://www.sciencedirect.com/science/article/pii/S0165176519304082?dgcid=author)**   
-(with <a href="https://econbc.weebly.com/">Bo Chen</a>, Lijun Ma, <a href="https://faculte-recherche.audencia.com/en/cvs/cv/zhaobo-zhu/?no_cache=1&cHash=8ef4253eab09857f023af3f6e257a23e/">Zhaobo Zhu)  
+(with <a href="https://econbc.weebly.com/">Bo Chen</a>, Lijun Ma, <a href="https://faculte-recherche.audencia.com/en/cvs/cv/zhaobo-zhu/?no_cache=1&cHash=8ef4253eab09857f023af3f6e257a23e/">Zhaobo Zhu</a>)  
 *Economics Letters*, 2020, 186, 108805.  
 (Theory) The contest organizer prefers fully concealing the information about the number of participating bidders when bidders face a common exogenous bid cap.  
 <a href="{{ site.baseurl }}/assets/research/disclose_all_pay.pdf"><font size="3">[slides]</font></a>

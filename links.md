@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Research
+title: Links
 navlevel: header
-navtitle: research
+navtitle: Links
 position: 4
 ---
 
-**Links of Journals**
-
+**Links of Journals**   
 * [The American Economic Review](https://www.aeaweb.org/journals/aer)
 * [Journal of Political Economy](https://www.journals.uchicago.edu/toc/jpe/current)
 * [The Quarterly Journal of Economics](https://academic.oup.com/qje)
@@ -19,15 +18,12 @@ position: 4
 * [Journal of Accounting Research](https://onlinelibrary.wiley.com/journal/1475679x)
 * [Journal of Accounting and Economics](https://www.journals.elsevier.com/journal-of-accounting-and-economics)
 
-**Links of New Working Papers**
-
+**Links of New Working Papers**   
 * [The Latest NBER Working Papers](https://www.nber.org/new.html)
 
-**Links of Conferences**
-
+**Links of Conferences**   
 * [Virtual Finance Workshop](https://www.virtualfinance.org/home)
 
-**Links of Researchers**
-
+**Links of Researchers**   
 * [Itay Goldstein](http://finance.wharton.upenn.edu/~itayg/)
 * [Liyan Yang](http://individual.utoronto.ca/liyanyang/)
