@@ -1,8 +1,7 @@
-title: 
 author: Yu Zhou
 email: yzhoudf@connect.ust.hk
 description: > # this means to ignore newlines until "baseurl:"
-  Yu Zhou, Hong Kong University of Science and Technology, Finance, MPhil
+  Yu Zhou, Hong Kong University of Science and Technology, Finance, PhD
 baseurl: 
 lang: en # site language (en/ja/zh-Hans/zh-Hant)
 color_scheme: github # this specifies color scheme for syntax highlighting
