@@ -1,4 +1,4 @@
-title: Yu Zhou's Home Page
+title: 
 author: Yu Zhou
 email: yzhoudf@connect.ust.hk
 description: > # this means to ignore newlines until "baseurl:"
@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: 
 lang: en # site language (en/ja/zh-Hans/zh-Hant)
 color_scheme: github # this specifies color scheme for syntax highlighting
-github_username: MochiZhou
+github_username: yuzhou-finance
 
 # Build settings
 markdown: kramdown
