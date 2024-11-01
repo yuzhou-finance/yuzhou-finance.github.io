@@ -1,10 +1,6 @@
 ---
 layout: page
 title: Yu Zhou
-navlevel: header
-navtitle: Home
-position: 1
-priority: 1.0
 ---
 
 <table cellspacing="0" border="0" align="center">
@@ -13,18 +9,19 @@ priority: 1.0
          <img border="0" src="{{ site.baseurl }}/assets/images/photo1.jpg" alt="Yu Zhou">
          </td>
          <td width="2%"></td>
-         <td width="55%" align="left" valign="center">
+         <td width="55%" align="left" valign="top">
             <p>
-            	I am a PhD student in Finance at Hong Kong University of Science and Technology (HKUST). My research interests are Credit Markets and Sustainable Finance. My Chinese name is 周煜.<br>
-            <div></div>
-				yzhoudf at connect dot ust dot hk<br>
-            <div></div>
-				<a href="{{ site.baseurl }}/assets/cv/cv.pdf">Curriculum Vitae</a><br>
+            	I am a PhD candidate in Finance at the Hong Kong University of Science and Technology (HKUST). My research interests are in Credit Markets and Sustainable Finance.
+            </p>
+            <p>
+				   yzhoudf at connect dot ust dot hk
+            </p>
+				<p>
+               <a href="{{ site.baseurl }}/assets/cv/cv.pdf">Curriculum Vitae</a>
             </p>
         </td>
      </tr>
 </table>
-
 
 ***
 
