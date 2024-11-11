@@ -6,12 +6,16 @@ title: Yu Zhou
 <table cellspacing="0" border="0" align="center">
     <tr>
          <td width="35%" align="left" valign="center">
-         <img border="0" src="{{ site.baseurl }}/assets/images/photo1.jpg" alt="Yu Zhou">
+         <img border="0" src="{{ site.baseurl }}/assets/images/photo2.jpg" alt="Yu Zhou">
          </td>
          <td width="2%"></td>
          <td width="55%" align="left" valign="top">
             <p>
-            	I am a PhD candidate in Finance at the Hong Kong University of Science and Technology (HKUST). My research interests are in Credit Markets and Sustainable Finance.
+            	I am a Ph.D. candidate in Finance at the Hong Kong University of Science and Technology (HKUST). I received a B.S. and M.S. in Finance from Wuhan University.
+               
+               My research interests are in credit markets, financial intermediary, and sustainable finance.
+               
+               I am on the 2024-2025 academic job market.
             </p>
             <p>
 				   yzhoudf at connect dot ust dot hk
